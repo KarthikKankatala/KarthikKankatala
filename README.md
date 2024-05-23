@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karhik Kankatala</h1>
-<h3 align="center">A passionate Mern Stack developer and Data Science Enthusiast.</h3>
+<h3 align="center">A passionate MERN Stack developer and Data Science Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikkankatala&label=Profile%20views&color=0e75b6&style=flat" alt="karthikkankatala" /> </p>
 
