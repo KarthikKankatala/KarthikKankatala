@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **karthikkankatala124@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EmYP3WxnacSSaTEU_2Lnj4o6VU9FuXZU/view?usp=sharing](https://drive.google.com/file/d/1EmYP3WxnacSSaTEU_2Lnj4o6VU9FuXZU/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OE8BKnLuz4J00lYXwmhZeasy6as1lWqf/view?usp=drive_link](https://drive.google.com/file/d/1OE8BKnLuz4J00lYXwmhZeasy6as1lWqf/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kankatala-venu-gopal-karthik-178a15266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kankatala-venu-gopal-karthik-178a15266/" height="30" width="40" /></a>
